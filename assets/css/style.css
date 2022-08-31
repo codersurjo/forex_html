@@ -1163,6 +1163,9 @@ body {
   
   .trading_l_six .language_available{
       border-right: none;
+      background: url(../images/tranding/vector.png) no-repeat;
+      background-size: 100% 100%;
+      background-position: 0 0;
   }
   
   .mobile_follow_f.trading_l_flow {
